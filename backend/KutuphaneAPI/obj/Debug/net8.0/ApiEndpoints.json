@@ -1,0 +1,108 @@
+[
+  {
+    "ContainingType": "KutuphaneAPI.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/Account/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "KutuphaneAPI.Entity.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KutuphaneAPI.Controllers.AccountController",
+    "Method": "Register",
+    "RelativePath": "api/Account/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "KutuphaneAPI.Entity.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KutuphaneAPI.Controllers.BookController",
+    "Method": "CreateBook",
+    "RelativePath": "api/Book/CreateBook",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "book",
+        "Type": "KutuphaneAPI.Entity.Book",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KutuphaneAPI.Controllers.BookController",
+    "Method": "CreateBook",
+    "RelativePath": "api/Book/DeleteBook",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bookID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KutuphaneAPI.Controllers.BookController",
+    "Method": "GetAllBook",
+    "RelativePath": "api/Book/GetAllBook",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KutuphaneAPI.Controllers.BookController",
+    "Method": "Search",
+    "RelativePath": "api/Book/Search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bookName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KutuphaneAPI.Controllers.BookController",
+    "Method": "UpdateBook",
+    "RelativePath": "api/Book/UpdateBook",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "book",
+        "Type": "KutuphaneAPI.Entity.Book",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

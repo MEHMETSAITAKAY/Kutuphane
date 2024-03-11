@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msaka\\Desktop\\kutuphane\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\msaka\\Desktop\\kutuphane\\backend\\KutuphaneAPI\\Migrations\\20240308134433_sadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KutuphaneAPI\\Migrations\\20240308134433_sadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA15D00-89A1-47AE-94B9-1A0B5EF6471D}|KutuphaneAPI\\KutuphaneAPI.csproj|c:\\users\\msaka\\desktop\\kutuphane\\backend\\kutuphaneapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA15D00-89A1-47AE-94B9-1A0B5EF6471D}|KutuphaneAPI\\KutuphaneAPI.csproj|solutionrelative:kutuphaneapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA15D00-89A1-47AE-94B9-1A0B5EF6471D}|KutuphaneAPI\\KutuphaneAPI.csproj|c:\\users\\msaka\\desktop\\kutuphane\\backend\\kutuphaneapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA15D00-89A1-47AE-94B9-1A0B5EF6471D}|KutuphaneAPI\\KutuphaneAPI.csproj|solutionrelative:kutuphaneapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA15D00-89A1-47AE-94B9-1A0B5EF6471D}|KutuphaneAPI\\KutuphaneAPI.csproj|c:\\users\\msaka\\desktop\\kutuphane\\backend\\kutuphaneapi\\data\\concrate\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA15D00-89A1-47AE-94B9-1A0B5EF6471D}|KutuphaneAPI\\KutuphaneAPI.csproj|solutionrelative:kutuphaneapi\\data\\concrate\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240308134433_sadas.cs",
+              "DocumentMoniker": "C:\\Users\\msaka\\Desktop\\kutuphane\\backend\\KutuphaneAPI\\Migrations\\20240308134433_sadas.cs",
+              "RelativeDocumentMoniker": "KutuphaneAPI\\Migrations\\20240308134433_sadas.cs",
+              "ToolTip": "C:\\Users\\msaka\\Desktop\\kutuphane\\backend\\KutuphaneAPI\\Migrations\\20240308134433_sadas.cs",
+              "RelativeToolTip": "KutuphaneAPI\\Migrations\\20240308134433_sadas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:44:33.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\msaka\\Desktop\\kutuphane\\backend\\KutuphaneAPI\\Data\\Concrate\\Context.cs",
+              "RelativeDocumentMoniker": "KutuphaneAPI\\Data\\Concrate\\Context.cs",
+              "ToolTip": "C:\\Users\\msaka\\Desktop\\kutuphane\\backend\\KutuphaneAPI\\Data\\Concrate\\Context.cs",
+              "RelativeToolTip": "KutuphaneAPI\\Data\\Concrate\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:43:26.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\msaka\\Desktop\\kutuphane\\backend\\KutuphaneAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "KutuphaneAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\msaka\\Desktop\\kutuphane\\backend\\KutuphaneAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "KutuphaneAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:36:22.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\msaka\\Desktop\\kutuphane\\backend\\KutuphaneAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "KutuphaneAPI\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\msaka\\Desktop\\kutuphane\\backend\\KutuphaneAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "KutuphaneAPI\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:33:14.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

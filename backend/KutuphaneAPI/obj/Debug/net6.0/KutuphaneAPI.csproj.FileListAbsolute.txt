@@ -1,0 +1,7 @@
+C:\Users\mmmir\OneDrive\Belgeler\GitHub\kutuphane\backend\KutuphaneAPI\obj\Debug\net6.0\KutuphaneAPI.csproj.AssemblyReference.cache
+C:\Users\mmmir\OneDrive\Belgeler\GitHub\kutuphane\backend\KutuphaneAPI\obj\Debug\net6.0\KutuphaneAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmmir\OneDrive\Belgeler\GitHub\kutuphane\backend\KutuphaneAPI\obj\Debug\net6.0\KutuphaneAPI.AssemblyInfoInputs.cache
+C:\Users\mmmir\OneDrive\Belgeler\GitHub\kutuphane\backend\KutuphaneAPI\obj\Debug\net6.0\KutuphaneAPI.AssemblyInfo.cs
+C:\Users\mmmir\OneDrive\Belgeler\GitHub\kutuphane\backend\KutuphaneAPI\obj\Debug\net6.0\KutuphaneAPI.csproj.CoreCompileInputs.cache
+C:\Users\mmmir\OneDrive\Belgeler\GitHub\kutuphane\backend\KutuphaneAPI\obj\Debug\net6.0\KutuphaneAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mmmir\OneDrive\Belgeler\GitHub\kutuphane\backend\KutuphaneAPI\obj\Debug\net6.0\KutuphaneAPI.MvcApplicationPartsAssemblyInfo.cache
